@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently working at zen.com as a senior front-end engineer.
 
 <!--
 **partykos/partykos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 How to reach me:
+- 🔗 https://twitter.com/partykos
+- 🔗 https://linkedin.com/in/partykos
