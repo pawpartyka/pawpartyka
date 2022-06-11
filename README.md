@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-I’m currently working at zen.com as a senior front-end engineer. You can find me on [twitter](https://twitter.com/pawpartyka).
+Creator of @caviajs. Senior Front-end Engineer at @zen-com. 
+
+You can find me on [partyka.dev](https://partyka.dev).
